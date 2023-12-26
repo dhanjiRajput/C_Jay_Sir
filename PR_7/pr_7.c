@@ -8,7 +8,8 @@ void main()
 	printf("Press 2 for -\n");
 	printf("Press 3 for *\n");
 	printf("Press 4 for /\n");
-	printf("Press 5 for Exit\n");
+	printf("Press 5 for %\n");
+	printf("Press 0 for Exit");
 	
 	int n,a,b;
 	do
